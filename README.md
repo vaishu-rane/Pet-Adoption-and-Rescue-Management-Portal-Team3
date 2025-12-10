@@ -13,9 +13,16 @@ Pet Adoption and Rescue Management Portal_Team3 first Milestone Work
 
 
 1.Design appropriate relational databases needed to fulfill the requirement.
+#Dataset for user authentication 
+<img width="1599" height="729" alt="image" src="https://github.com/user-attachments/assets/0766be8a-78ff-47d4-a170-14bb11c3ed9a" />
+<img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/aba0568c-ee32-4bbf-bf36-725114ff29cc" />
+
 
 ● Set up a database to store Users, Pets, etc.
 <img width="1076" height="917" alt="image" src="https://github.com/user-attachments/assets/9afad888-b150-4f8b-beef-d008353acda5" />
+<img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/bfec0347-9e07-4f2a-ad01-46a7ddfa8619" />
+
+
 DL: CNN 
 <img width="804" height="924" alt="image" src="https://github.com/user-attachments/assets/7e87e5aa-31e0-45ad-b01b-54c6cb9cc7b5" />
 
